@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>p13._Использование_свойства_Length_при_работе_с_рваными_массивами</RootNamespace>
+  </PropertyGroup>
+
+</Project>
