@@ -6,9 +6,9 @@ class Decompose {
     public int parts(double n, out double frac) {
     int whole;
     whole = (int) n;
-    frac = n - whole; // Передаем дробную часть
-    // посредством параметра frac.
-    return whole; // Возвращаем целую часть числа.
+    frac = n - whole;   // Передаем дробную часть
+                        // посредством параметра frac.
+    return whole;   // Возвращаем целую часть числа.
     }
 }
 class UseOut {
