@@ -20,7 +20,7 @@ class Rect {
             {
                 return new Rect(width * factor, height * factor);
             }
-       }
+}
 
 class RetObj
 {

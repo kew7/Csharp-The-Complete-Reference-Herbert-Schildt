@@ -13,13 +13,13 @@ class Num {
         greatest = 1;
         // Находим наименьший и наибольший общие множители.
         for(i=2; i <= max/2 + 1; i++) {
-        if( ((y%i)==0) & ((x%i)==0) ) {
+            if( ((y%i)==0) & ((x%i)==0) ) {
                 if(first) {
                     least = i;
                     first = false;
-                          }
-                greatest = i;
                 }
+                greatest = i;
+            }
         }
     if(least != 1) return true;
     else return false;
