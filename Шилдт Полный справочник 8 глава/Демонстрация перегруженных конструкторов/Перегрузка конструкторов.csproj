@@ -34,8 +34,13 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Overload_trough_This.OverloadConsDemo</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Вызов конструктора с помощью ссылки this.cs" />
     <Compile Include="Демонстрация перегруженных конструкторов.cs" />
+    <Compile Include="Класс стека для хранения символов.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
