@@ -34,8 +34,11 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Recursion</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Рекурсия.cs" />
+    <Compile Include="Простой пример рекурсии.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

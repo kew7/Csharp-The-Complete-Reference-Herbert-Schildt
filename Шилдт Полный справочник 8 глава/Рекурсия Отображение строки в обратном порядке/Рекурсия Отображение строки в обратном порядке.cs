@@ -5,7 +5,7 @@ class RevStr {
     public void displayRev(string str) {
         Count++;
         if (str.Length > 0) {
-            Console.WriteLine(str[0] + " " + str + " " +str.Length);
+            Console.WriteLine(str[0] + " \t" + str + " \t" +str.Length); // отоборажение текущего состояния подстроки
             displayRev(str.Substring(1, str.Length - 1));
         }
         else {
@@ -19,11 +19,12 @@ class RevStr {
 
 internal class RevStrDemo {
     public static void Main() {
-        String s = "Ремарк";
+        String S = "Ремарк";
         RevStr rsOb = new RevStr();
-        Console.WriteLine("Исходная строка: ");
-        rsOb.displayRev(s);
-        Console.WriteLine("\n");
+        Console.WriteLine("Исходная строка: " + S);
+        Console.WriteLine("\nstr[0]\tstr\tstr.Length"); // заголовок отоборажения текущего состояния подстроки
+        rsOb.displayRev(S);
+        Console.WriteLine();
         Console.WriteLine("Количество вызовов метода с рекурсией Count = " + rsOb.Count + "\n");
     }
 }

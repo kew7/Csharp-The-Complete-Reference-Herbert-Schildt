@@ -30,8 +30,8 @@ class Recursion
         Console.WriteLine(
         "Факториалы, вычисленные с " +
         "использованием рекурсивного метода.");
-//        Console.WriteLine("Факториал числа 3 равен " +
-//        f.factR(3));
+        Console.WriteLine("Факториал числа 3 равен " +
+        f.factR(3));
         Console.WriteLine("Факториал числа 4 равен " +
         f.factR(4));
         Console.WriteLine("Факториал числа 5 равен " +

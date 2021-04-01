@@ -29,27 +29,23 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p13. Возвращение
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p14. Демонстрация перегрузки методов", "..\Шилдт Полный справочник 8 глава\Демонстрация перегрузки методов\p14. Демонстрация перегрузки методов.csproj", "{9B1D1726-C36B-4C70-BB44-616E783AD203}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p15. Возможность автоматического преобразования типов", "..\Шилдт Полный справочник 8 глава\Возможность автоматического преобразования типов\p15. Возможность автоматического преобразования типов.csproj", "{71CF6D35-D3EC-4E27-97AC-FB5997F8CDFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p15. Возможность автом.преоб.типов при перезагрузке методов", "..\Шилдт Полный справочник 8 глава\Возможность автоматического преобразования типов\p15. Возможность автом.преоб.типов при перезагрузке методов.csproj", "{71CF6D35-D3EC-4E27-97AC-FB5997F8CDFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Перегрузка конструкторов", "..\Шилдт Полный справочник 8 глава\Демонстрация перегруженных конструкторов\Перегрузка конструкторов.csproj", "{AF5EA1A4-1883-49B6-B5DB-59690CE0FB48}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p17. Перегрузка конструкторов", "..\Шилдт Полный справочник 8 глава\Демонстрация перегруженных конструкторов\p17. Перегрузка конструкторов.csproj", "{AF5EA1A4-1883-49B6-B5DB-59690CE0FB48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p18. Демонстрация перегруженных конструкторов Стек", "..\Шилдт Полный справочник 8 глава\Демонстрация перегруженных конструкторов Стек\p18. Демонстрация перегруженных конструкторов Стек.csproj", "{E33CA269-162F-4449-B179-F8B6B16DD494}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p18. Метод Main()", "..\Шилдт Полный справочник 8 глава\Метод Main()\p18. Метод Main().csproj", "{E59BB561-53D4-4A81-801B-FA2A06D5F65D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p19. Демонстрация вызова конструктора с помощью ссылки this", "..\Шилдт Полный справочник 8 глава\Демонстрация вызова конструктора с помощью ссылки this\p19. Демонстрация вызова конструктора с помощью ссылки this.csproj", "{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p19. Рекурсия", "..\Шилдт Полный справочник 8 глава\Рекурсия\p19. Рекурсия.csproj", "{6D5D82E6-D585-45C9-9110-2246D3D44E34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p20. Метод Main()", "..\Шилдт Полный справочник 8 глава\Метод Main()\p20. Метод Main().csproj", "{E59BB561-53D4-4A81-801B-FA2A06D5F65D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p20. Рекурсия Отображение строки в обратном порядке", "..\Шилдт Полный справочник 8 глава\Рекурсия Отображение строки в обратном порядке\p20. Рекурсия Отображение строки в обратном порядке.csproj", "{6E38EC2B-1982-421B-A4C0-862666E8E005}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p21. Рекурсия", "..\Шилдт Полный справочник 8 глава\Рекурсия\p21. Рекурсия.csproj", "{6D5D82E6-D585-45C9-9110-2246D3D44E34}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p21. Использование модификатора типа static", "..\Шилдт Полный справочник 8 глава\Использование модификатора типа static\p21. Использование модификатора типа static.csproj", "{EA738A38-7E15-4AF7-8F70-D189DA0A09E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p22. Рекурсия Отображение строки в обратном порядке", "..\Шилдт Полный справочник 8 глава\Рекурсия Отображение строки в обратном порядке\p22. Рекурсия Отображение строки в обратном порядке.csproj", "{6E38EC2B-1982-421B-A4C0-862666E8E005}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p22. Использование static-поля для подсчета экземпляров класса", "..\Шилдт Полный справочник 8 глава\Использование static-поля для подсчета экземпляров класса\p22. Использование static-поля для подсчета экземпляров класса.csproj", "{36DF1E97-30FC-47EA-AC01-5F2294A041B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p23. Использование модификатора типа static", "..\Шилдт Полный справочник 8 глава\Использование модификатора типа static\p23. Использование модификатора типа static.csproj", "{EA738A38-7E15-4AF7-8F70-D189DA0A09E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p23. Создание статической фабрики класса", "..\Шилдт Полный справочник 8 глава\Создание статической фабрики класса\p23. Создание статической фабрики класса.csproj", "{D104D676-3923-4D94-AD47-A5FEA75484CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p24. Использование static-поля для подсчета экземпляров класса", "..\Шилдт Полный справочник 8 глава\Использование static-поля для подсчета экземпляров класса\p24. Использование static-поля для подсчета экземпляров класса.csproj", "{36DF1E97-30FC-47EA-AC01-5F2294A041B7}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p25. Создание статической фабрики класса", "..\Шилдт Полный справочник 8 глава\Создание статической фабрики класса\p25. Создание статической фабрики класса.csproj", "{D104D676-3923-4D94-AD47-A5FEA75484CC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p26. Использование статического конструктора", "..\Шилдт Полный справочник 8 глава\Использование статического конструктора\p26. Использование статического конструктора.csproj", "{25DB11D3-9750-4461-B438-13A6BFF69DAA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p24. Использование статического конструктора", "..\Шилдт Полный справочник 8 глава\Использование статического конструктора\p24. Использование статического конструктора.csproj", "{25DB11D3-9750-4461-B438-13A6BFF69DAA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Демонстрация передачи простых типов", "..\Шилдт Полный справочник 8 глава\Демонстрация передачи простых типов\4. Демонстрация передачи простых типов.csproj", "{15F23D81-8A22-4366-A14F-77E2116D9DBC}"
 EndProject
@@ -63,7 +59,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Перегрузка б�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Перегрузка унарных операторов", "Перегрузка унарных операторов\2. Перегрузка унарных операторов.csproj", "{4B0E66A6-9D94-43DD-8DCA-FBEBC894E285}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Выполнение операций над значениями", "Выполнение операций над значениями\3. Выполнение операций над значениями.csproj", "{949D7DB4-8D08-4D10-92B6-66DA19A8A29C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Выполнение операций над значениями встроенных типов", "Выполнение операций над значениями\3. Выполнение операций над значениями встроенных типов.csproj", "{949D7DB4-8D08-4D10-92B6-66DA19A8A29C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2. Выполнение операций над значениями 2", "Выполнение операций над значениями 2\3.2. Выполнение операций над значениями 2.csproj", "{883438C2-AADE-4C7E-9BA4-748896D4AC82}"
 EndProject
@@ -1528,130 +1524,6 @@ Global
 		{AF5EA1A4-1883-49B6-B5DB-59690CE0FB48}.Staging|x64.Build.0 = Release|x86
 		{AF5EA1A4-1883-49B6-B5DB-59690CE0FB48}.Staging|x86.ActiveCfg = Release|x86
 		{AF5EA1A4-1883-49B6-B5DB-59690CE0FB48}.Staging|x86.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Debug|Any CPU.ActiveCfg = Debug|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Debug|ARM.ActiveCfg = Debug|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Debug|ARM64.ActiveCfg = Debug|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Debug|Mixed Platforms.Build.0 = Debug|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Debug|Win32.ActiveCfg = Debug|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Debug|Win32.Build.0 = Debug|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Debug|x64.ActiveCfg = Debug|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Debug|x86.ActiveCfg = Debug|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Debug|x86.Build.0 = Debug|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Relase|Any CPU.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Relase|Any CPU.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Relase|ARM.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Relase|ARM.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Relase|ARM64.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Relase|ARM64.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Relase|Mixed Platforms.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Relase|Mixed Platforms.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Relase|Win32.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Relase|Win32.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Relase|x64.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Relase|x64.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Relase|x86.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Relase|x86.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Release|Any CPU.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Release|ARM.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Release|ARM64.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Release|Mixed Platforms.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Release|Mixed Platforms.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Release|Win32.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Release|Win32.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Release|x64.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Release|x86.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Release|x86.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Stage|Any CPU.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Stage|Any CPU.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Stage|ARM.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Stage|ARM.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Stage|ARM64.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Stage|ARM64.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Stage|Mixed Platforms.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Stage|Mixed Platforms.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Stage|Win32.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Stage|Win32.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Stage|x64.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Stage|x64.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Stage|x86.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Stage|x86.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Staging|Any CPU.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Staging|Any CPU.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Staging|ARM.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Staging|ARM.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Staging|ARM64.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Staging|ARM64.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Staging|Mixed Platforms.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Staging|Mixed Platforms.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Staging|Win32.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Staging|Win32.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Staging|x64.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Staging|x64.Build.0 = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Staging|x86.ActiveCfg = Release|x86
-		{E33CA269-162F-4449-B179-F8B6B16DD494}.Staging|x86.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Debug|Any CPU.ActiveCfg = Debug|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Debug|ARM.ActiveCfg = Debug|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Debug|ARM64.ActiveCfg = Debug|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Debug|Mixed Platforms.Build.0 = Debug|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Debug|Win32.ActiveCfg = Debug|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Debug|Win32.Build.0 = Debug|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Debug|x64.ActiveCfg = Debug|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Debug|x86.ActiveCfg = Debug|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Debug|x86.Build.0 = Debug|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Relase|Any CPU.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Relase|Any CPU.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Relase|ARM.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Relase|ARM.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Relase|ARM64.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Relase|ARM64.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Relase|Mixed Platforms.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Relase|Mixed Platforms.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Relase|Win32.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Relase|Win32.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Relase|x64.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Relase|x64.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Relase|x86.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Relase|x86.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Release|Any CPU.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Release|ARM.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Release|ARM64.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Release|Mixed Platforms.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Release|Mixed Platforms.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Release|Win32.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Release|Win32.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Release|x64.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Release|x86.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Release|x86.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Stage|Any CPU.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Stage|Any CPU.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Stage|ARM.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Stage|ARM.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Stage|ARM64.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Stage|ARM64.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Stage|Mixed Platforms.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Stage|Mixed Platforms.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Stage|Win32.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Stage|Win32.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Stage|x64.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Stage|x64.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Stage|x86.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Stage|x86.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Staging|Any CPU.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Staging|Any CPU.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Staging|ARM.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Staging|ARM.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Staging|ARM64.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Staging|ARM64.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Staging|Mixed Platforms.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Staging|Mixed Platforms.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Staging|Win32.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Staging|Win32.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Staging|x64.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Staging|x64.Build.0 = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Staging|x86.ActiveCfg = Release|x86
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E}.Staging|x86.Build.0 = Release|x86
 		{E59BB561-53D4-4A81-801B-FA2A06D5F65D}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{E59BB561-53D4-4A81-801B-FA2A06D5F65D}.Debug|ARM.ActiveCfg = Debug|x86
 		{E59BB561-53D4-4A81-801B-FA2A06D5F65D}.Debug|ARM64.ActiveCfg = Debug|x86
@@ -20507,8 +20379,6 @@ Global
 		{9B1D1726-C36B-4C70-BB44-616E783AD203} = {339D8F6D-7D25-4B96-ACCE-FDF49F3D9F4C}
 		{71CF6D35-D3EC-4E27-97AC-FB5997F8CDFB} = {339D8F6D-7D25-4B96-ACCE-FDF49F3D9F4C}
 		{AF5EA1A4-1883-49B6-B5DB-59690CE0FB48} = {339D8F6D-7D25-4B96-ACCE-FDF49F3D9F4C}
-		{E33CA269-162F-4449-B179-F8B6B16DD494} = {339D8F6D-7D25-4B96-ACCE-FDF49F3D9F4C}
-		{E8AD41F3-F24D-4681-A8A9-F4EE5EA5257E} = {339D8F6D-7D25-4B96-ACCE-FDF49F3D9F4C}
 		{E59BB561-53D4-4A81-801B-FA2A06D5F65D} = {339D8F6D-7D25-4B96-ACCE-FDF49F3D9F4C}
 		{6D5D82E6-D585-45C9-9110-2246D3D44E34} = {339D8F6D-7D25-4B96-ACCE-FDF49F3D9F4C}
 		{6E38EC2B-1982-421B-A4C0-862666E8E005} = {339D8F6D-7D25-4B96-ACCE-FDF49F3D9F4C}

@@ -38,9 +38,9 @@
     <StartupObject>Overload_trough_This.OverloadConsDemo</StartupObject>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Вызов конструктора с помощью ссылки this.cs" />
-    <Compile Include="Демонстрация перегруженных конструкторов.cs" />
-    <Compile Include="Класс стека для хранения символов.cs" />
+    <Compile Include="3. Вызов конструктора с помощью ссылки this.cs" />
+    <Compile Include="1. Демонстрация перегруженных конструкторов.cs" />
+    <Compile Include="2. Класс стека для хранения символов.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
